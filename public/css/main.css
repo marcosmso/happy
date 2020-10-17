@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  color: black;
+  background: linear-gradient(329.54def, #29b6d1 0%, #00c7c7 100%);
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body,
+input,
+button,
+textarea {
+  font: 400 1.8rem/1 "Nunito", sans-serif;
+}
